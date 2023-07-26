@@ -28,7 +28,7 @@ body::before {
     display: flex;
     align-items: center;
     gap: 20px;
-    min-height: 100px;
+    min-height: 300px;
     justify-content:center;
 }
 
