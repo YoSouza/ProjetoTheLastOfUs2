@@ -27,13 +27,13 @@
     }
 
    .selecao-de-personagens .personagem img {
-        width: 150px;
-        height: 120px;
+        width: 100px;
+        height: 90px;
    }
 
    .personagem-selecionado .personagem-grande {
-        width: 290px;
-        height: 300px;
+        width: 250px;
+        height: 260px;
    }
    .personagem-selecionado .descricao-personagem {
         width: 80%;
