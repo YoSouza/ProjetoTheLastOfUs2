@@ -26,8 +26,8 @@ body::before {
 
 .selecao-de-personagens {
     display: flex;
-    align-items: self-end;
-    gap: 100px;
+    align-items: center;
+    gap: 20px;
     min-height: calc(100vh - 152px);
     justify-content:center;
 }
